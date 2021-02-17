@@ -1,6 +1,6 @@
 html {
     font-family: monospace;
-    background-color: darkblue;
+    background-color: darkslateblue;
 }
 .container {
     position: relative;
@@ -13,14 +13,14 @@ html {
 h1 {
     position: absolute;
     font-size: 30px;
-    color: red;
+    color: darkred;
     top: 0px;
     left: 130px;
 }
 p {
     position: absolute;
     font-size: 20px;
-    color: red;
+    color: darkred;
     top: 60px;
     left: 130px;
 }
